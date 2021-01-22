@@ -63,9 +63,9 @@ namespace SyntacticSugar
                 "Nuts" };
 
             var newBug = new Bug("Charlie", "LadyBug", Predators, Prey);
+
             Console.WriteLine(newBug.Eat("Raisins"));
-            
-            
+            Console.WriteLine(newBug.FormalName);
             }
         }
     }

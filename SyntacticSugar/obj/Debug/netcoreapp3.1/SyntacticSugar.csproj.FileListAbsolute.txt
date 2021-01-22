@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.exe
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.deps.json
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.dll
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.pdb
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.dll
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.pdb
+C:\Users\cloja\source\repos\Back-End\SyntacticSugar\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.genruntimeconfig.cache
